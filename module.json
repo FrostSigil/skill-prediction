@@ -1,6 +1,6 @@
 {
     "disableAutoUpdate": false,
-    "name": "skill-prediction",
+    "name": "skill-prediction-sad",
     "author": "Pinkie Pie / many others",
     "description": "Simulates skills client-side, eliminating ping-based delays and animation lock.",
     "options": {
@@ -10,6 +10,6 @@
         "settingsFile": "settings.json",
         "settingsMigrator": "migration.js"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-private-mods/skill-prediction/master/"],
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/skill-prediction/master/"],
     "conflicts": ["zsync","aa-zsync","cooldowns","cooldowns-master","fastfire","fastfire-master","fast-fire","fast-fire-master","lockons","lockons-master","lockons-light","lockons-light-master","ping-compensation","ping-remover","skill-prediction-master","skill-prediction-plus"]
 }
